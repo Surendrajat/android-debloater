@@ -24,6 +24,7 @@
    adb shell pm list packages > pkg.list
    ```
 5. Open **pkg.list** file and add a hyphen(-) to the bloat apps.
+   
    For eg:
    Change
    `package:com.bloat.bs`
