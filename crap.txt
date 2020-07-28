@@ -97,7 +97,7 @@ package:com.xiaomi.simactivate.service
 package:com.android.provision
 package:org.codeaurora.ims
 package:com.android.statementservice
--package:in.mohalla.brandprovider
+package:in.mohalla.brandprovider
 package:com.google.android.gm
 package:com.miui.sysopt
 package:com.miui.system
@@ -113,7 +113,7 @@ package:com.miui.compass
 package:com.qualcomm.qti.dynamicddsservice
 package:com.google.android.setupwizard
 package:com.miui.rom
--package:com.miui.android.fashiongallery
+package:com.miui.android.fashiongallery
 package:com.qualcomm.qcrilmsgtunnel
 package:com.android.providers.settings
 package:com.android.sharedstoragebackup
@@ -133,7 +133,7 @@ package:com.android.bips
 package:com.qti.dpmserviceapp
 package:com.android.fileexplorer
 package:com.qti.xdivert
--package:com.opera.branding
+package:com.opera.branding
 package:com.android.systemui.overlay.cmcc
 package:com.google.android.apps.docs
 package:com.google.android.apps.maps
@@ -192,7 +192,7 @@ package:nic.goi.aarogyasetu
 package:com.android.providers.partnerbookmarks
 -package:com.mi.globalTrendNews
 package:com.android.smspush
--package:com.eterno
+package:com.eterno
 package:com.android.networksettings.overlay.ct
 package:com.miui.calculator
 package:com.android.wallpaper.livepicker
@@ -202,7 +202,7 @@ package:com.miui.miwallpaper
 -package:com.facebook.system
 package:com.google.android.gms.policy_sidecar_aps
 package:com.xiaomi.bluetooth
--package:com.gaana
+package:com.gaana
 package:com.google.android.backuptransport
 package:com.mi.android.globalpersonalassistant
 -package:com.miui.cleanmaster
@@ -225,7 +225,7 @@ package:com.qti.diagservices
 package:com.ulink.agrostar
 package:com.qualcomm.qti.services.secureui
 package:com.android.vpndialogs
--package:com.mi.global.shop
+package:com.mi.global.shop
 package:com.android.phone
 package:com.android.deskclocklib.res20180703
 package:com.android.shell
@@ -259,7 +259,7 @@ package:com.qualcomm.atfwd
 package:com.qualcomm.embms
 package:com.android.providers.contacts
 package:com.android.captiveportallogin
--package:cn.wps.moffice_eng
+package:cn.wps.moffice_eng
 package:com.miui.core
 package:com.miui.face
 package:com.miui.home
